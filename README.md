@@ -25,6 +25,10 @@ A simple browser-based voter registration information portal that:
 
 This tool does **not** access or verify voter records.
 
+## Ressources 
+- [Demo:](https://moseschirusha.github.io/day_13_voter_registration_checker)
+- [Medium Article:](https://moseschirusha.medium.com/a-simple-tool-to-reduce-voter-confusion-ahead-of-ugandas-elections-45c46456d4a4)
+
 ---
 
 ## Country Context
